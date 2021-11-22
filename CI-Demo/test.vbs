@@ -1,0 +1,1 @@
+MsgBox "Im inside VBS"
